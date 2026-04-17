@@ -1,7 +1,6 @@
 # Taller: Trayecto de aprendizaje en innovación digital I  
 ## III Ciclo – Formación Tecnológica (PNFT)
 Este repositorio contiene los recursos oficiales del taller “Trayecto de aprendizaje en innovación digital 1 – III Ciclo”, dirigido a personas docentes de la asignatura de Formación Tecnológica, en el marco del Programa Nacional de Formación Tecnológica (PNFT) del Ministerio de Educación Pública de Costa Rica.
-El material aquí alojado acompaña el desarrollo del taller y apoya la mediación pedagógica, la integración curricular entre áreas de conocimiento y la transferencia a la práctica docente.
 ---
 ## 🎯 Propósito del taller
 El taller propone una experiencia formativa que favorece el tránsito desde una visión fragmentada de las áreas de conocimiento hacia una comprensión articulada, sistémica e intencional del currículo tecnológico, utilizando la Computación física y la Robótica como eje integrador de:
@@ -17,6 +16,7 @@ La experiencia se fundamenta en el enfoque por competencias del PNFT y en la met
 Este repositorio ha sido diseñado para apoyar el taller en modalidad:
 - ✅ Presencial  
 - ✅ Virtual o bimodal (según sea su implementación)
+- --
 👉 Importante:  
 No es necesario tener conocimientos avanzados de programación ni utilizar GitHub de forma técnica para aprovechar este material.  
 Este repositorio funciona como un espacio de consulta y descarga de recursos.
